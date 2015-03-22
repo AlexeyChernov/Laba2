@@ -83,7 +83,7 @@ begin
       for i:= 1 to n-1 do
       write(f2, mas[i], ' ');
       writeln(f2, mas[n]);
-    Write(f2, 'Øåëë.');
+    Write(f2, 'Шелл.');
     writeln(f2);
     Writeln(f2, floattostr(TimeSum));
     Writeln(f2);
