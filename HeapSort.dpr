@@ -88,7 +88,7 @@ writeln(f2, n);
 for i:= 1 to n-1 do
 write(f2, a[i], ' ');
 writeln(f2, a[n]);
-Write(f2, 'Ïèðàìèäêà.');
+Write(f2, 'Пирамидка.');
 writeln(f2);
 Writeln(f2, floattostr(TimeSum));
 Writeln(f2);
